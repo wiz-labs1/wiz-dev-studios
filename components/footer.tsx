@@ -145,7 +145,7 @@ export function Footer() {
 
             <div className="flex items-center gap-4">
               <div className="flex items-center gap-1 text-sm text-muted-foreground">
-                Dev Studios <span className="text-xs">™</span> 2023
+               Wiz Dev Studios <span className="text-xs">™</span> 2023
               </div>
             </div>
 
